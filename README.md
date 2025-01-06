@@ -8,6 +8,7 @@ NLP methods used:
   Doc2Vec
   LDA
   TFID
+  
 Other NLP methods tested:
   BERT transformers
 
